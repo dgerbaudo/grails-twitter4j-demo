@@ -149,6 +149,7 @@
         <JAVADOC />
         <SOURCES>
           <root url="jar://$USER_HOME$/.ideaLibSources/twitter4j-core-4.0.2-sources.jar!/" />
+          <root url="jar://$USER_HOME$/.ideaLibSources/twitter4j-stream-4.0.2-sources.jar!/" />
         </SOURCES>
         <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
       </library>
