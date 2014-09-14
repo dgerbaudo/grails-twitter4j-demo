@@ -6,5 +6,6 @@ class TestController {
 
     def index() {
         twitter4jService.updateStatus("test")
+        render ("Status updated")
     }
 }
